@@ -1,4 +1,4 @@
-My name is Ricardo, im 21 and i´m a computer science student from Spain.
+My name is Ricardo, I´m 21 and I´m a computer science student from Spain.
 - 👋 Hi, I’m @RicardoAlonso14
 - 👀 I’m interested in data machine learning and AI.
 - 🌱 I’m currently learning python, R, Java and mmachine learning fundamentals.
